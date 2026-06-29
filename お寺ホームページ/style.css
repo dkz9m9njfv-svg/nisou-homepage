@@ -41,7 +41,7 @@ p {
     max-width:900px;
     border-radius:20px;
     display:block;
-    margin:0 auto 20px auto;
+    margin:0 auto 0 auto;
 }
 
 .hero-content{
