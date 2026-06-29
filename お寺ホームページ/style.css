@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    font-family: "Zen Maru Gothic", sans-serif;
+    background-color: #faf7f2;
+    background-color: #FAF7F2;
+    color: #4E4747;
+}
+
+header{
+    background-color: #EFE5D8;
+    color: #4E4747;
+    text-align: center;
+    padding:50px 40px;
+}
+
+header h1{
+    font-size:45px;
+    margin-bottom:10px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 0;
+}
+
+.hero{
+    padding:80px 0;
+    text-align:center;
+    align-items:center;
+    justify-content:center;
+
+    gap:50px;
+
+    padding:80px;
+
+    background:#faf7f2;
+}
+
+.hero img{
+    width:80%;
+    max-width:900px;
+    border-radius:20px;
+    display:block;
+    margin:0 auto 50px auto;
+}
+
+.hero-content{
+    width:80%;
+    max-width:900px;
+    margin:auto;
+    text-align:left;
+    line-height:2;
+}
+
+.hero h2 {
+    color: #6F5F76;
+    font-size: 40px;
+}
+
+.hero p {
+    line-height: 2;
+    color: #555;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 35px;
+
+    background-color:#D8C6E8;
+    color:white;
+
+    text-decoration: none;
+    border-radius: 30px;
+
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: #B899C8;
+}
+
+.card{
+    background:white;
+    border-radius:20px;
+    padding:50px;
+    margin:80px auto;
+    width:80%;
+    max-width:900px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.08);
+}
+
+.card h2{
+    color:#7b6787;
+    margin-top:0;
+}
+
+.card p{
+    line-height:2;
+}
+
+.service-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:25px;
+    margin-top:40px;
+}
+
+.service-item{
+    display:flex;
+    align-items:center;
+    gap:25px; 
+    background:#FAF7F2;
+    border-radius:15px;
+    padding:30px;
+    text-align:center;
+    transition:0.3s;
+}
+
+.service-item:hover{
+    transform:translateY(-5px);
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
+
+.service-item h3{
+    color:#7B6787;
+    margin-top:0;
+}
+
+.icon-item{
+    display:flex;
+    align-items:center;   
+    gap:25px;             
+}
+
+.service-top h2{
+    text-align:left;
+    margin:0 0 5px 0;
+    color:#7B6787;
+    display:inline-block;
+}
+
+.service-icon img{
+    width:50px;
+    opacity:.75;
+}
+
+.service-text{
+    text-align:left;
+}
+
+.service-text h3{
+    margin:0 0 5px 0;
+    color:#7B6787;
+    display:inline-block;
+}
+
+.service-text h3::after{
+    content:"";
+    display:block;
+    width:100%;
+    height:2px;
+    margin-top:2px;
+    background:#D8C6E8;
+    border-radius:999px;
+}
+
+.service-text p{
+    margin:0;
+    line-height:1.8;
+}
+
+.icon-circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background:#faf6fb;
+    border:2px solid #eadcf1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.icon-circle img{
+    width:35px;
+    opacity:.75;
+}
