@@ -41,7 +41,7 @@ p {
     max-width:900px;
     border-radius:20px;
     display:block;
-    margin:0 auto 30px auto;
+    margin:0 auto 20px auto;
 }
 
 .hero-content{
@@ -82,7 +82,7 @@ p {
     border-radius:20px;
     padding:50px;
     margin:80px auto;
-    width:80%;
+    width:70%;
     max-width:900px;
     box-shadow:0 8px 20px rgba(0,0,0,0.08);
 }
