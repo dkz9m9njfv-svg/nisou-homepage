@@ -188,3 +188,12 @@ p {
     width:35px;
     opacity:.75;
 }
+
+footer{
+    background:#EFE5D8;
+    text-align:center;
+    padding:30px;
+    margin-top:80px;
+    color:#7B6787;
+    font-size:14px;
+}
