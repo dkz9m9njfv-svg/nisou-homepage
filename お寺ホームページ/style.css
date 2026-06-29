@@ -31,11 +31,8 @@ p {
     text-align:center;
     align-items:center;
     justify-content:center;
-
     gap:50px;
-
     padding:80px;
-
     background:#faf7f2;
 }
 
@@ -44,7 +41,7 @@ p {
     max-width:900px;
     border-radius:20px;
     display:block;
-    margin:0 auto 50px auto;
+    margin:0 auto 30px auto;
 }
 
 .hero-content{
