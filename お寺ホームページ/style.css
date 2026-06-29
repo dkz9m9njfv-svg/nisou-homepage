@@ -67,15 +67,12 @@ p {
 
 .button {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 15px 35px;
-
     background-color:#D8C6E8;
     color:white;
-
     text-decoration: none;
     border-radius: 30px;
-
     transition: 0.3s;
 }
 
