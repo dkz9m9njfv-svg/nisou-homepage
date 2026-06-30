@@ -62,6 +62,30 @@ p {
     color: #555;
 }
 
+.profile{
+    display:flex;
+    align-items:center;
+    gap:50px;
+    margin-top:40px;
+}
+
+.profile img{
+    width:250px;
+    height:250px;
+    object-fit:cover;
+    border-radius:50%;
+    border:5px solid #EFE5D8;
+}
+
+.profile-text{
+    flex:1;
+}
+
+.profile-text ul{
+    padding-left:20px;
+    line-height:2;
+}
+
 .button {
     display: inline-block;
     margin-top: 10px;
