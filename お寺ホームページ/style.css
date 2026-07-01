@@ -73,8 +73,8 @@ p {
     width:250px;
     height:250px;
     object-fit:cover;
+    object-position:center top;
     border-radius:50%;
-    border:5px solid #EFE5D8;
 }
 
 .profile-text{
