@@ -98,11 +98,6 @@ p {
     transition: 0.3s;
 }
 
-.button:hover{
-    background:#B695C9;
-    transform:translateY(-3px);
-}
-
 .card{
     background:white;
     border-radius:20px;
