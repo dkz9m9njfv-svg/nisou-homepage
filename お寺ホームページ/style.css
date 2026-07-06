@@ -125,7 +125,7 @@ p {
 }
 
 .service-item{
-    display:block;
+    display:flex;
     align-items:center;
     gap:25px; 
     background:#FAF7F2;
