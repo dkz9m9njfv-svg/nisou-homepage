@@ -191,6 +191,7 @@ p {
 .service-text p{
     margin:0;
     line-height:1.8;
+    color:black;
 }
 
 .icon-circle{
