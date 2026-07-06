@@ -220,6 +220,11 @@ p {
     font-family: inherit;
 }
 
+.accordion h3,
+.accordion p{
+    font-family: "Zen Maru Gothic", sans-serif;
+}
+
 .service-header{
     display:flex;
     align-items:center;
