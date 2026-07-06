@@ -98,8 +98,9 @@ p {
     transition: 0.3s;
 }
 
-.button:hover {
-    background: #B899C8;
+.button:hover{
+    background:#B695C9;
+    transform:translateY(-3px);
 }
 
 .card{
