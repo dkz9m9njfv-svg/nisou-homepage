@@ -130,7 +130,7 @@ p {
 }
 
 .service-item{
-    display:flex;
+    display:block;
     align-items:center;
     gap:25px; 
     background:#FAF7F2;
