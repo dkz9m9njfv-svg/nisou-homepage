@@ -108,11 +108,6 @@ p {
     box-shadow:0 8px 20px rgba(0,0,0,0.08);
 }
 
-.card:hover{
-    transform: translateY(-5px);
-    box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-}
-
 .card h2{
     color:#7b6787;
     margin-top:0;
@@ -120,6 +115,11 @@ p {
 
 .card p{
     line-height:2;
+}
+
+.card p:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.15);
 }
 
 .service-grid{
