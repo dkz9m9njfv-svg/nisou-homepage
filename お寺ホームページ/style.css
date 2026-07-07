@@ -108,6 +108,11 @@ p {
     box-shadow:0 8px 20px rgba(0,0,0,0.08);
 }
 
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+}
+
 .card h2{
     color:#7b6787;
     margin-top:0;
@@ -122,6 +127,11 @@ p {
     grid-template-columns:repeat(2,1fr);
     gap:25px;
     margin-top:40px;
+}
+
+.service-card:hover{
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08); /* 普段と同じ影 */
+    transform: none;
 }
 
 .service-item{
