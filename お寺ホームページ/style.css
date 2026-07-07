@@ -118,7 +118,6 @@ p {
 }
 
 .service-card:hover{
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08); /* 普段と同じ影 */
     transform: none;
 }
 
