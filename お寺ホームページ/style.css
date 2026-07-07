@@ -136,11 +136,6 @@ p {
     transition:0.3s;
 }
 
-.service-item:hover{
-    transform:translateY(-5px);
-    box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
 .service-item h3{
     color:#7B6787;
     margin-top:0;
