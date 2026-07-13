@@ -221,6 +221,10 @@ p {
     border-radius:15px;
 }
 
+.note-button{
+    margin-left: 20px;
+}
+
 footer{
     background:#EFE5D8;
     text-align:center;
